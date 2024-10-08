@@ -1,0 +1,64 @@
+{
+  "restaurants": [
+    {
+      "name": "The Garden Bistro",
+      "description": "A charming eatery nestled in a lush urban garden, offering fresh and organic dishes. The bistro focuses on farm-to-table dining, with an emphasis on seasonal ingredients.",
+      "category": "Organic/Vegetarian",
+      "user_id": 101,
+      "menu": [
+        {
+          "name": "Harvest Salad",
+          "description": "A mix of fresh greens, roasted root vegetables, quinoa, and a citrus vinaigrette.",
+          "price": 12,
+          "photo": "./images/Fall-Harvest-Salad-1.jpg"
+        },
+        {
+          "name": "Grilled Vegetable Panini",
+          "description": "Sourdough bread filled with grilled zucchini, bell peppers, mozzarella, and basil pesto.",
+          "price": 10,
+          "photo": "./images/grilled_vegetable_panini.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Oceanic Delights",
+      "description": "A coastal-themed seafood restaurant with a laid-back atmosphere. Known for its fresh catch and creative seafood dishes.",
+      "category": "Seafood",
+      "user_id": 102,
+      "menu": [
+        {
+          "name": "Seaside Paella",
+          "description": "A traditional Spanish paella with shrimp, mussels, calamari, and saffron rice.",
+          "price": 22,
+          "photo": "./images/seaside_paella.jpg"
+        },
+        {
+          "name": "Lobster Bisque",
+          "description": "Creamy bisque made with fresh lobster, sherry, and a hint of cayenne pepper.",
+          "price": 18,
+          "photo": "./images/lobster_bisque.jpg"
+        }
+      ]
+    },
+    {
+      "name": "The Spice Route",
+      "description": "An exotic restaurant offering a fusion of flavors from across Asia. The menu features a mix of Indian, Thai, and Indonesian dishes.",
+      "category": "Asian Fusion",
+      "user_id": 103,
+      "menu": [
+        {
+          "name": "Mango Chicken Curry",
+          "description": "Tender chicken pieces in a creamy mango and coconut curry sauce, served with basmati rice.",
+          "price": 15,
+          "photo": "./images/mango_chicken_curry.jpeg"
+        },
+        {
+          "name": "Pad Thai",
+          "description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and a tamarind sauce.",
+          "price": 13,
+          "photo": "./images/pad_thai.jpg"
+        }
+      ]
+    }
+  ]
+}

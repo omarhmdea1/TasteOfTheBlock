@@ -1,0 +1,4 @@
+pymongo~=4.8.0
+telebot~=0.0.5
+pydantic~=2.8.2
+pillow~=10.4.0
